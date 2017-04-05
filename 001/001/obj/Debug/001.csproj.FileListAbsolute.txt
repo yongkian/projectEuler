@@ -1,0 +1,6 @@
+C:\Users\Inspiron 14\Documents\GitHub\projectEuler\001\001\bin\Debug\001.exe.config
+C:\Users\Inspiron 14\Documents\GitHub\projectEuler\001\001\bin\Debug\001.exe
+C:\Users\Inspiron 14\Documents\GitHub\projectEuler\001\001\bin\Debug\001.pdb
+C:\Users\Inspiron 14\Documents\GitHub\projectEuler\001\001\obj\Debug\001.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron 14\Documents\GitHub\projectEuler\001\001\obj\Debug\001.exe
+C:\Users\Inspiron 14\Documents\GitHub\projectEuler\001\001\obj\Debug\001.pdb
